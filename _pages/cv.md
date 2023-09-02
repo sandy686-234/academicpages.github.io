@@ -11,49 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- **09/2022-Now Newcastle University, UK (THE Ranking 139)**
+  - MSc in Computer Science (Distinguished, expected)
+  
+- **09/2017-06/2021 Beijing Institute of Technology, Zhuhai, China**
+  - BSc in Robotics Engineering (Final result: 80+)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Certainly! Here's your research experiences formatted in markdown:
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Research Experiences:**
+
+* **04/2020-06/2021: “ROBO” World Undergraduate Medical Robot Contest (China Division)**
+  * Acubots-Acupuncture Robot Based on Digital Meridian Theory
+  * Responsibilities: Product optimization, robot joint testing, and paper sorting on pulse needle robot intelligence.
+  * Achievements: Obtained 5 project approvals and received invitations for international competitions.
+
+* **04/2020-02/2021: Facial Recognition Attendance System (Zhuhai)**
+  * Programmed using Python3+.
+  * Responsibilities: Conducted facial recognition using Face Recognition (an open-source facial recognition database of Python), displayed camera images using Opencv2, and simulated check-in using Excel and facial recognition.
+
+* **04/2019-02/2020: The Hack BJ Ai Hackathon Competition (Beijing)**
+  * Conducted de-layering data analysis of Hua Zhu Group to classify customers.
+  * Responsibilities: Data analysis, data extraction, establishment of database models, and 24-hour product development and presentation in a group of 5 members.
+  * Achievements: Highly praised by Google source contributors.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer vision
+* Robotics analysis
+* Formal methods
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
