@@ -8,8 +8,7 @@ venue: 'Applied,Science'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Zhuang Huang, Zhou wen lee. Low-Sample Image Classification using ACGAN and Intrinsic Feature Relation. Applied. Science. 2023, (ready to submit)'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Zhuang Huang, Zhou wen lee. Low-Sample Image Classification using ACGAN and Intrinsic Feature Relation. Applied. Science. 2023, (ready to submit)
