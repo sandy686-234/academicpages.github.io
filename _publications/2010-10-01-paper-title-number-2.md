@@ -1,5 +1,5 @@
 ---
-title: "(https://github.com/sandy686-234/sandy686-234.github.io/blob/master/files/paper1.pdf)"
+title: "Low-Sample Image Classification using ACGAN and Intrinsic Feature Relation"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
