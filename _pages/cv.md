@@ -19,9 +19,6 @@ Education
 
 Research experience
 ======
-Certainly! Here's your research experiences formatted in markdown:
-
-**Research Experiences:**
 
 * **04/2020-06/2021: “ROBO” World Undergraduate Medical Robot Contest (China Division)**
   * Acubots-Acupuncture Robot Based on Digital Meridian Theory
